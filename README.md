@@ -6,15 +6,14 @@ Our child company, PHOENIX, uses this SDK base for their website Beatable Meat P
 Please note that the issues page is not justs for literal *issues*, but you can request something to be added to one of the sites. One of the moderators of the repository will add a label to your post to identify what it is.
 
 # LICENSE
-This license below is excerpt from the Beatable Meat Portal. The license is subject to changes.
 ## SUMMARY
-The "Beatable Meat Portal" (and NOT THE CONTENT WITHIN THE LINKS OF THE "BEATABLE MEAT PORTAL") is Copyright © 2020 The Phoenix Project.
-The license below tells you that you can use the "Beatable Meat Portal" as base code for your own "portal" website, including for commercial use, but not for trademark use.
+The "Portal Website SDK Base" is Copyright © 2020 Heatwave Studios.
+The license below tells you that you can use the "Portal Website SDK Base" as base code for your own "portal" website, including for commercial use, but not for trademark use.
 
 ## THE AGREEMENT
 By cloning, modifying and/or distrubuting this repository, you AGREE to the below license. If you wish to be better safe than sorry, please read the license carefully before you clone this repo.
 
-### APACHE LICENSE VERSION 2.0, JANUARY 2004 (SLIGHTLY MODIFIED BY THE PHOENIX PROJECT) | http://www.apache.org/licenses/
+### APACHE LICENSE VERSION 2.0, JANUARY 2004 (SLIGHTLY MODIFIED HEATWAVE STUDIOS) | http://www.apache.org/licenses/
 
 #### TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
@@ -188,7 +187,7 @@ By cloning, modifying and/or distrubuting this repository, you AGREE to the belo
       of your accepting any such warranty or additional liability.
 
 ##### END OF TERMS AND CONDITIONS
-   Copyright © 2020 The Phoenix Project
+   Copyright © 2020 Heatwave Studios
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
