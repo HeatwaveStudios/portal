@@ -1,11 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\forwarders\\the game",
-    "\\forwarders\\the movie",
-    "\\games",
-    "\\games\\Piano-Tiles-Translated"
+    "\\subfolder"
   ],
-  "SelectedNode": "\\games\\snake-master",
+  "SelectedNode": "\\LICENSE",
   "PreviewInSolutionExplorer": false
 }
