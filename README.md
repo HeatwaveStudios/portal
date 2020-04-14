@@ -1,6 +1,6 @@
 # PORTAL WEBSITE SDK BASE
 This is an SDK base for Portal websites. Portal websites are pages with links to other websites. They are useful for people who own multiple websites and want to link them into one.
-Our child company, PHOENIX, uses this SDK base for their websites Beatable Meat Portal and The Phoenix Portal. The sites can be found at https://beatablemeat.github.io (the source code is at https://github.com/beatablemeat/beatablemeat.github.io) and https://phoenixprojectsoftware.github.io (the source code is at https://github.com/phoenixprojectsoftware/phoenixprojectsoftware.github.io)
+Our child company, PHOENIX, uses this SDK base for their websites Beatable Meat Portal and The Phoenix Portal. The sites can be found at [Beatable Meat Portal](https://beatablemeat.github.io) and [The Phoenix Project.](https://phoenixprojectsoftware.github.io)
 
 ## [CLICK HERE FOR AN EXAMPLE OF THE WEBSITE](https://heatwavestudios.github.io/portal)
 
